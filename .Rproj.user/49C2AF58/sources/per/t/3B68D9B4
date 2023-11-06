@@ -1,0 +1,26 @@
+{
+    "id": "3B68D9B4",
+    "path": "~/GitHub/AIMS-NEI_MS4CR_SF/UN_DATATHON/Data-cleaning.R",
+    "project_path": "Data-cleaning.R",
+    "type": "r_source",
+    "hash": "2188085827",
+    "contents": "",
+    "dirty": false,
+    "created": 1699246764668.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "93,0",
+        "scrollLine": "68"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1699275463,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1699275463901,
+    "read_only": false,
+    "read_only_alternatives": []
+}

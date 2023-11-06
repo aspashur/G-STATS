@@ -1,0 +1,25 @@
+{
+    "id": "BD3FABF0",
+    "path": null,
+    "project_path": null,
+    "type": "r_code_browser",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1699188961156.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "context": "namespace:base:::t"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7305808869231650162,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1699188961156,
+    "read_only": false,
+    "read_only_alternatives": []
+}
